@@ -1,12 +1,22 @@
 from testpage import OperationsHelper
+import yaml, time
 import logging
+with open("./testdata.yaml") as f:
+    testdata = yaml.safe_load(f)
+name = testdata["username"]
+passwd = testdata["password"]
 
 
 def test_step1(browser):
-    logging.info("Test1 Starting")
+    logging.info("Test1 Start")
     testpage = OperationsHelper(browser)
     testpage.go_to_site()
     testpage.enter_login("test")
     testpage.enter_pass("test")
     testpage.click_login_button()
     assert testpage.get_error_text() == "401"
+
+
+def test_step2(browser):
+    logging.info("Test2 Start")
+

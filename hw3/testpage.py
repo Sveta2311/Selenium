@@ -52,6 +52,9 @@ class OperationHelper(BasePage):
         btn = self.find_element(TestSearchLocator.LOCATOR_BUTTON_CONTACT)
         btn.click()
 
+    def get_alert_text(self):
+        alert = self.driver.switch_to.alert
+        return alert.text
 
 
 
