@@ -1,5 +1,7 @@
 address: https://test-stand.gb.ru/login
+api_address: https://test-stand.gb.ru/gateway/login
+api_url: https://test-stand.gb.ru/api/posts
 browser: chrome
 sleep_time: 1
-username: Daras77745
-password: ca90331158
+username: Daras77363
+password: d85e526dd0

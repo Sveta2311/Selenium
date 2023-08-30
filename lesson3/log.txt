@@ -1,17 +1,19 @@
-2023-08-30 14:42:58 INFO ====== WebDriver manager ======
-2023-08-30 14:42:59 INFO Get LATEST chromedriver version for google-chrome
-2023-08-30 14:42:59 INFO Get LATEST chromedriver version for google-chrome
-2023-08-30 14:42:59 INFO There is no [win64] chromedriver "116.0.5845.111" for browser google-chrome "116.0.5845.111" in cache
-2023-08-30 14:42:59 INFO Get LATEST chromedriver version for google-chrome
-2023-08-30 14:42:59 INFO WebDriver version 116.0.5845.96 selected
-2023-08-30 14:42:59 INFO Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
-2023-08-30 14:42:59 INFO About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
-2023-08-30 14:43:00 INFO Driver downloading response is 200
-2023-08-30 14:43:02 INFO Get LATEST chromedriver version for google-chrome
-2023-08-30 14:43:02 INFO Driver has been saved in cache [C:\Users\Shark\.wdm\drivers\chromedriver\win64\116.0.5845.111]
-2023-08-30 14:43:03 INFO Test 1 Start
-2023-08-30 14:43:05 INFO Test 2 Start
-2023-08-30 14:43:07 INFO Test 3 Start
-2023-08-30 14:43:10 INFO Test 4 Start
-2023-08-30 14:43:17 INFO Get alert text
-2023-08-30 14:43:17 INFO Form successfully submitted
+2023-09-02 15:52:08 INFO ====== WebDriver manager ======
+2023-09-02 15:52:08 INFO Get LATEST chromedriver version for google-chrome
+2023-09-02 15:52:08 INFO Get LATEST chromedriver version for google-chrome
+2023-09-02 15:52:08 INFO There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+2023-09-02 15:52:08 INFO Get LATEST chromedriver version for google-chrome
+2023-09-02 15:52:09 INFO WebDriver version 116.0.5845.96 selected
+2023-09-02 15:52:09 INFO Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+2023-09-02 15:52:09 INFO About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+2023-09-02 15:52:09 INFO Driver downloading response is 200
+2023-09-02 15:52:13 INFO Get LATEST chromedriver version for google-chrome
+2023-09-02 15:52:14 INFO Driver has been saved in cache [C:\Users\Shark\.wdm\drivers\chromedriver\win64\116.0.5845.141]
+2023-09-02 15:52:15 INFO Test 1 Start
+2023-09-02 15:52:18 INFO Test 2 Start
+2023-09-02 15:52:22 INFO Test 3 Start
+2023-09-02 15:52:29 INFO Test 4 Start
+2023-09-02 15:52:36 INFO Get alert text
+2023-09-02 15:52:36 INFO Form successfully submitted
+2023-09-02 15:52:38 INFO Test 5 Start
+2023-09-02 15:52:38 INFO Test 6 Start

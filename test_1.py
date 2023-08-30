@@ -6,6 +6,7 @@ with open("testdata.yaml") as f:
     testdata = yaml.safe_load(f)
 site = Site(testdata["address"])
 
+
 def test_step1(x_selector1, x_selector2, btn_selector, btn_add_selector, title_input_selector, btn_save_selector,
                post_title_selector):
     input1 = site.find_element("xpath", x_selector1)
