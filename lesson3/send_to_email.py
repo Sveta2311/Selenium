@@ -6,7 +6,7 @@ from email.mime.text import MIMEText
 from email.mime.application import MIMEApplication
 import yaml
 
-#with open(".yaml") as f:
+# with open("testdata.yaml") as f:
 #   addr = yaml.safe_load(f)
 
 fromaddr = "margaritka2132@mail.ru"
